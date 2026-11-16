@@ -6,6 +6,6 @@
 - `openfabriq plan` shows what will change, security first; `openfabriq apply` applies it.
 - Agents propose; the engine writes to GitHub only what you allowed; a person merges.
 
-The engine's repository opens soon.
+The engine is open source: [openfabriq/openfabriq](https://github.com/openfabriq/openfabriq), under the Apache License 2.0.
 
 Created and maintained by [Matthieu Guirlinger](https://github.com/eixoweb).
